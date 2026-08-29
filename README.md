@@ -1,11 +1,4 @@
-come into my parlor
-the waters lovely
+compile the .java files and then run Game.class mort
 
-deviantart.com/DontCallMeTwinky
-
-
-
-
-in truth i have many parlors
-dig in and yuoll discover them
-in the fullness of time
+its a game i created
+have fun
