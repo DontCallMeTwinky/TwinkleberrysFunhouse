@@ -12,7 +12,7 @@ if yuo dont know how to do that,
 
 first download and install the java development kit (jdk) from: https://www.oracle.com/java/technologies/downloads/
 
-yuo may also neeed the java runtime environment (jre): https://www.java.com/en/download/
+yuo may also need to download the java runtime environment (jre) separately from: https://www.java.com/en/download/
 
 
 
