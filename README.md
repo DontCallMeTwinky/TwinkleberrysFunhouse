@@ -10,7 +10,8 @@ compile the .java files and then run Game.class mort
 
 if yuo dont know how to do that,
 
-first download and install java: https://www.java.com/en/download/
+first download and install the java development kit (jdk) from: https://www.oracle.com/java/technologies/downloads/
+yuo may also neeed the java runtime environment (jre): https://www.java.com/en/download/
 
 
 
